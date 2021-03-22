@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GraphicsOffline.dir/1605102_2.cpp.o  -o GraphicsOffline  -lglut -lGLU -lGL 
